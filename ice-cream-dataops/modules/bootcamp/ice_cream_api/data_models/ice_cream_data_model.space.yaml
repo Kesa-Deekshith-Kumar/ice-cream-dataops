@@ -1,0 +1,3 @@
+space:  {{ icapi_space_name }}
+name: IceCream_Factory_Data_Model
+description: Space for the ice cream factory data
